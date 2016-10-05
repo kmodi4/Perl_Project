@@ -9,7 +9,7 @@
 <br>
 
 <h4>Installation of perl on windows</h4>
-<p>Download Actival perl to run on python script</p>
+<p>Download Actival perl to run python script</p>
 To install Modules Write below line in Command Prompt<br>
 <ol>
 <li>ppm install Win32-GUI</li>
